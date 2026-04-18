@@ -12,7 +12,10 @@ A modern task manager built with JavaScript and Tailwind CSS.
 ## Preview
 ![App](./assets/home.png)
 
-## 🛠 Tech Stack
+## Live Demo
+https://task-manager-lac-omega.vercel.app
+
+## Tech Stack
 - HTML
 - Tailwind CSS
 - JavaScript
